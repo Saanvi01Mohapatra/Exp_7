@@ -1,6 +1,6 @@
-//SAI SANKAR
+//Saanvi mohapatra
 //entc B2
-//23070123112
+//23070123110
 //experiment 7
 #include<iostream>
 #include<string>
