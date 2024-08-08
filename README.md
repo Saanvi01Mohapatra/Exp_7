@@ -364,8 +364,8 @@ int main(){
     return 0;
 }
 /*PS C:\Users\asus\Desktop\cds> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ strings1.cpp -o strings1 } ; if ($?) { .\strings1 }
-enter any word: saii
- entered string is saii*/
+enter any word: saanvii
+ entered string is saanvii*/
 ```
 ### Strings code 2:
 ```cpp
@@ -387,9 +387,9 @@ cout<<"enter string 2:";
     return 0;
 }
 /*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ concatenatestr.cpp -o concatenatestr } ; if ($?) { .\concatenatestr }
-enter string1: sai
-enter string 2:sankar
-CONCATENATION: saisankar*/
+enter string1: saanvi
+enter string 2:mohapatra
+CONCATENATION: saanvimohapatra*/
 ```
 ### Strings code 3:
 ```cpp
@@ -415,9 +415,9 @@ int main()
     return 0;
 }
 /*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ revstring.cpp -o revstring } ; if ($?) { .\revstring }
-enter string you want to reverse: sai
+enter string you want to reverse: saanvi
 Here is your reversed string:
-ias*/
+ivnaas*/
 ```
 ### String Code 4:
 ```cpp
@@ -455,8 +455,8 @@ int main()
 enter a string: MALAYALAM
 MALAYALAM is palindrome
 PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ PALINDROME.cpp -o PALINDROME } ; if ($?) { .\PALINDROME }
-enter a string: SEMICINDUCTOR
-SEMICINDUCTOR is palindrome*/
+enter a string: exactly
+exactly is palindrome*/
 ```
 
 
