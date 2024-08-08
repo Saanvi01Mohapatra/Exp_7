@@ -1,6 +1,6 @@
-//Sai 
+//Saanvi
 //entc B2
-//23070123112
+//23070123110
 //experiment 7
 #include<iostream>
 #include<string>
@@ -16,6 +16,6 @@ cout<<"enter string 2:";
     return 0;
 }
 /*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ concatenatestr.cpp -o concatenatestr } ; if ($?) { .\concatenatestr }
-enter string1: sai
-enter string 2:sankar
-CONCATENATION: saisankar*/
+enter string1: saanvi 
+enter string 2:mohapatra
+CONCATENATION: saanvimohapatra*/
