@@ -1,6 +1,6 @@
-//Sai Sankar
+//Saanvi
 //entc B2
-//23070123112
+//23070123110
 //experiment 7
 #include<iostream>
 #include<string>
@@ -20,6 +20,6 @@ int main()
     return 0;
 }
 /*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ revstring.cpp -o revstring } ; if ($?) { .\revstring }
-enter string you want to reverse: sai
+enter string you want to reverse: saanvi
 Here is your reversed string:
-ias*/
+ivnaas*/
