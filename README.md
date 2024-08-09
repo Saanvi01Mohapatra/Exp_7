@@ -306,7 +306,8 @@ cout << "Enter number of elements to use : ";
     cout << "Average = " << avg << endl;
 
     return 0;
-}```
+}
+```
 ### output
 ```
 Enter number of elements to use : 2
