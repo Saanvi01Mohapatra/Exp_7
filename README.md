@@ -94,7 +94,7 @@ cout<< "array is "<< a[1];
 return 0;
 }
 ```
-###output
+### output
 ```
 array is 65*/
 ```
@@ -126,7 +126,7 @@ cout<<"array b: ";
 return 0;
 }
 ```
-###output
+### output
 ```
  array a:  51 65 84 96 
 array b: 1 2 3 5 8 88 9
@@ -162,7 +162,7 @@ int main() {
     return 0;
 }
 ```
-###output
+### output
 ```
 Enter 6 elements of array: 8
 6
@@ -213,7 +213,7 @@ int main() {
     }
 }
 ```
-###output
+### output
 ```
 Enter size of array: 2
 Enter element-1: 5
@@ -256,7 +256,7 @@ int main() {
     }
 }
 ```
-###output
+### output
 ```
 Enter size of the array : 3
 Enter element-1: 5
@@ -307,7 +307,7 @@ cout << "Enter number of elements to use : ";
 
     return 0;
 }```
-###output
+### output
 ```
 Enter number of elements to use : 2
 Enter element-1: 3.2
@@ -350,7 +350,7 @@ int main() {
     cout<<"Maximum: "<<max<<endl<<"Minimum: "<<min;
 }
 ```
-###output
+### output
 ```
 Enter number of elements: 2
 Enter element-0: 6
@@ -376,7 +376,7 @@ int main(){
     return 0;
 }
 ```
-###output
+### output
 ```
 enter any word: saanvii
  entered string is saanvii*/
@@ -401,7 +401,7 @@ cout<<"enter string 2:";
     return 0;
 }
 ```
-###output
+### output
 ```
 enter string1: saanvi
 enter string 2:mohapatra
@@ -431,7 +431,7 @@ int main()
     return 0;
 }
 ```
-###output
+### output
 ```
 enter string you want to reverse: saanvi
 Here is your reversed string:
@@ -470,7 +470,7 @@ int main()
     }
 }
 ```
-###output
+### output
 ```
 enter a string: MALAYALAM
 MALAYALAM is palindrome
