@@ -93,8 +93,9 @@ int main()
 cout<< "array is "<< a[1];
 return 0;
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array.cpp -o array } ; if ($?) {
- .\array }
+```
+###output
+```
 array is 65*/
 ```
 ### Code 2:INITIALISING ARRAY
@@ -109,7 +110,7 @@ int main()
  int a[4]={51,65,84,96};
  int b[7]={1,2,3,5,8,88,9};
  int c[2]={89,37};
- cout<<" array a: ";
+ cout<<"array a: ";
 for(int i=0;i<4;i++){
     cout<<a[i]<<' ';}
 cout<<endl;
@@ -117,14 +118,16 @@ cout<<"array b: ";
     for(int j=0;j<7;j++){
     cout<<b[j]<<' ';}
     cout<<endl;
-    cout<<" array c: ";
+    cout<<"array c: ";
     for(int k=0;k<2;k++){
     cout<<c[k]<<' ';}
     cout<<endl;
 
 return 0;
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array2.cpp -o array2 } ; if ($?) { .\array2 }
+```
+###output
+```
  array a:  51 65 84 96 
 array b: 1 2 3 5 8 88 9
  array c: 89 37*/
@@ -158,7 +161,9 @@ int main() {
 
     return 0;
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array3.cpp -o array3 } ; if ($?) { .\array3 }
+```
+###output
+```
 Enter 6 elements of array: 8
 6
 5
@@ -207,7 +212,9 @@ int main() {
         cout<<a2[l]<<" ";
     }
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array4.cpp -o array4 } ; if ($?) { .\array4 }
+```
+###output
+```
 Enter size of array: 2
 Enter element-1: 5
 Enter element-2: 6
@@ -248,7 +255,9 @@ int main() {
         cout<<"Element is present: "<<count<<" times";
     }
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array5.cpp -o array5 } ; if ($?) { .\array5 }
+```
+###output
+```
 Enter size of the array : 3
 Enter element-1: 5
 Enter element-2: 6
@@ -297,8 +306,9 @@ cout << "Enter number of elements to use : ";
     cout << "Average = " << avg << endl;
 
     return 0;
-}
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array6.cpp -o array6 } ; if ($?) { .\array6 }
+}```
+###output
+```
 Enter number of elements to use : 2
 Enter element-1: 3.2
 Enter element-2: 2.3
@@ -339,7 +349,9 @@ int main() {
     }
     cout<<"Maximum: "<<max<<endl<<"Minimum: "<<min;
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ array7.cpp -o array7 } ; if ($?) { .\array7 }
+```
+###output
+```
 Enter number of elements: 2
 Enter element-0: 6
 Enter element-1: 5
@@ -363,7 +375,9 @@ int main(){
     cout<<" entered string is "<<a<<endl;
     return 0;
 }
-/*PS C:\Users\asus\Desktop\cds> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ strings1.cpp -o strings1 } ; if ($?) { .\strings1 }
+```
+###output
+```
 enter any word: saanvii
  entered string is saanvii*/
 ```
@@ -386,7 +400,9 @@ cout<<"enter string 2:";
     cout<<"CONCATENATION: "<<a+b;
     return 0;
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ concatenatestr.cpp -o concatenatestr } ; if ($?) { .\concatenatestr }
+```
+###output
+```
 enter string1: saanvi
 enter string 2:mohapatra
 CONCATENATION: saanvimohapatra*/
@@ -414,7 +430,9 @@ int main()
     }
     return 0;
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ revstring.cpp -o revstring } ; if ($?) { .\revstring }
+```
+###output
+```
 enter string you want to reverse: saanvi
 Here is your reversed string:
 ivnaas*/
@@ -451,12 +469,14 @@ int main()
         cout<<a<<" is not palindrome";
     }
 }
-/*PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ PALINDROME.cpp -o PALINDROME } ; if ($?) { .\PALINDROME }
+```
+###output
+```
 enter a string: MALAYALAM
 MALAYALAM is palindrome
 PS C:\Users\asus\Desktop\cds\arrayandstrings> cd "c:\Users\asus\Desktop\cds\arrayandstrings\" ; if ($?) { g++ PALINDROME.cpp -o PALINDROME } ; if ($?) { .\PALINDROME }
 enter a string: exactly
-exactly is palindrome*/
+exactly is not palindrome*/
 ```
 
 
